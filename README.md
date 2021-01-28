@@ -2,7 +2,7 @@
 
 *September 2020*
 
-This was the first website I built prior to starting the School of Code using HTML & CSS
+This is my first website, built prior to starting the School of Code using HTML & CSS 😀
 
 ## Built with
 
