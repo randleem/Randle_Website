@@ -13,7 +13,9 @@ This is my first website, built prior to starting the School of Code using HTML 
 
 1. Clone the repository
 
-`https://github.com/randleem/Randle_Website.git`
+```
+https://github.com/randleem/Randle_Website.git
+```
 
 2. Navigate to the repo
 
